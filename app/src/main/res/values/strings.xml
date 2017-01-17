@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">斗鱼直播</string>
+    <string name="recommend">推荐</string>
+    <string name="live">直播</string>
+    <string name="like">关注</string>
+    <string name="setting">设置</string>
+    <string name="channels">频道</string>
+    <string name="video_image">直播截图</string>
+    <string name="search">搜索</string>
+    <string name="search_hint">请输入房间号,或关键字</string>
+    <string name="video_title">视频的标题</string>
+    <string name="time">15:38:20</string>
+    <string name="test">12%</string>
+    <string name="wifi_only">仅Wi-Fi下观看</string>
+    <string name="cache_size_clear">缓存清理</string>
+    <string name="about">关于</string>
+    <string name="introduce">此软件是一款精简的斗鱼直播。\n采用了MVP的设计模式。\n这是一款使用Rxjava响应式编程，结合ijkplayer实现的直播软件。</string>
+    <string name="dependencies">butterknife
+        \nrxjava
+        \nrxandroid
+        \nokgo
+        \nokrx
+        \ngson
+        \npicasso
+        \nswipeback
+        \ngreendao
+        \nmaterialdialog
+        \nijkplayer
+        \nDanmakuFlameMaster
+        \nBaseRecyclerViewAdapterHelper
+        \nSwipeToLoadLayout
+    </string>
+    <string name="contact_me">
+        如果你有好的意见或建议，可以联系我。\n邮箱：lcorekit@sina.com。\n我将十分注重你的建议，在此感谢！
+    </string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF630E</color>
+    <color name="colorPrimaryDark">#D54B00</color>
+    <color name="colorAccent">#ff630e</color>
+    <color name="divider_color">#E0E0E0</color>
+
+    <!--下拉刷新上拉加载-->
+    <color name="style_window_background">#fff</color>
+    <color name="style_header_bcakground">#66000000</color>
+    <color name="style_footer_bcakground">#fff</color>
+
+    <color name="normol">#fff</color>
+    <color name="press">#EBEBEB</color>
+    <color name="content_bg">#efefef</color>
+    <color name="content_item_bg">#fafafa</color>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="foreground_material_light">#ffffff</color>
+    <color name="my_background_material_light">#fafafa</color>
+    <color name="background_material_light">#fafafa</color>
+</resources>

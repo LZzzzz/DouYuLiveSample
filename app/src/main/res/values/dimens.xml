@@ -1,0 +1,14 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="divider_height">0.5dp</dimen>
+    <dimen name="ImageSize">48dp</dimen>
+
+    <!--下拉刷新，上拉加载高度-->
+    <dimen name="load_more_footer_height_classic">60dp</dimen>
+    <dimen name="refresh_header_height">80dp</dimen>
+    <dimen name="load_more_footer_height">60dp</dimen>
+    <dimen name="dp_5">5dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+</resources>

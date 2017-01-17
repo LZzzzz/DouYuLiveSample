@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.lcorekit.l.douyu">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:name="com.lcorekit.l.live.App"
+        android:allowBackup="true"
+        android:configChanges="orientation|keyboardHidden"
+        android:icon="@drawable/icon_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name="com.lcorekit.l.live.mvp.view.activity.SplashActivity"
+            android:theme="@style/SplashTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.lcorekit.l.live.mvp.view.activity.HomeActivity"
+            android:theme="@style/AppThemeNotTranslucent" />
+        <activity android:name="com.lcorekit.l.live.mvp.view.activity.SearchActivity" />
+        <activity android:name="com.lcorekit.l.live.mvp.view.activity.ChannelInfoListActivity" />
+        <activity android:name="com.lcorekit.l.live.mvp.view.activity.AboutActivity" />
+        <activity
+            android:name="com.lcorekit.l.live.mvp.view.activity.PalyActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="sensorLandscape" />
+    </application>
+
+</manifest>
